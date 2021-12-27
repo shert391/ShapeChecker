@@ -1,0 +1,11 @@
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\bin\Debug\ShapeChecker.exe.config
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\bin\Debug\ShapeChecker.exe
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\bin\Debug\ShapeChecker.pdb
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\obj\Debug\ShapeChecker.csproj.AssemblyReference.cache
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\obj\Debug\ShapeChecker.csproj.SuggestedBindingRedirects.cache
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\obj\Debug\ShapeChecker.Display.resources
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\obj\Debug\ShapeChecker.Properties.Resources.resources
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\obj\Debug\ShapeChecker.csproj.GenerateResource.cache
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\obj\Debug\ShapeChecker.csproj.CoreCompileInputs.cache
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\obj\Debug\ShapeChecker.exe
+D:\Личное\ЯРГУ\Информатика\Мои работы\Лаб.Работа_5\1\ShapeChecker\obj\Debug\ShapeChecker.pdb
